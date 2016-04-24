@@ -2,6 +2,7 @@ name: CSGALLERY
 favicon: null
 layout_spectrum: 0.7853509401902556
 typography_spectrum: 0.926693968474865
+title: 'EVENTS & GALLERY'
 cta:
   domain: null
   bucket: null
